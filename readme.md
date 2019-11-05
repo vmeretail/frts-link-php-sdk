@@ -15,7 +15,7 @@ require __DIR__.'/../vendor/autoload.php';
 And finally create an instance of the SDK:
 
 ```php
-$forge = new VmeRetail\FrtsLink\FrtsLink(TOKEN_HERE);
+$sdk = new VmeRetail\FrtsLink\FrtsLink(TOKEN_HERE);
 ```
 
 ## Usage
